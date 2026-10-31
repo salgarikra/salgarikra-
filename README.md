@@ -15,6 +15,7 @@ I am an Electrical and Electronics Engineering student who believes in taking bo
 * **Version Control:** Git, GitHub, Git Bash (Beginning)
 * **Engineering & Design:** AutoCAD (Intermediate) 
 * **Currently Exploring:** Deep Learning frameworks, embedded systems, and data structures.
+
 NOTE : I continue to develop myself and reach higher levels within these programs.
 
 ---
