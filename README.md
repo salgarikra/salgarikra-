@@ -23,7 +23,7 @@ NOTE : I continue to develop myself and reach higher levels within these program
 * ⚡ Studying foundational electrical-electronics engineering concepts at Düzce University.
 * ✈️ Contributing to technical reports and deep learning models for a TEKNOFEST Aviation AI competition team.
 * 🚀 Actively seeking opportunities to grow, network, and bridge hardware with intelligent software.
-
+  
 --- 
 
 ### 📫 Connect With Me
