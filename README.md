@@ -1,4 +1,3 @@
-Markdown
 ### Hi there!👋 I'm İkra Belinay SALGAR
 
 <p align="left">
